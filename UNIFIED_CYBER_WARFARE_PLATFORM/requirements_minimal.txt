@@ -1,0 +1,26 @@
+# MINIMAL REQUIREMENTS - GUARANTEED TO WORK
+aiohttp
+dnspython
+cryptography
+numpy
+pandas
+matplotlib
+seaborn
+psutil
+stem
+PySocks
+websockets
+pymongo
+redis
+psycopg2-binary
+PyJWT
+scapy
+requests
+beautifulsoup4
+lxml
+fake-useragent
+python-whois
+pyyaml
+colorama
+tqdm
+click
